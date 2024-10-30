@@ -1,0 +1,15 @@
+{
+    "name": "moohamad/plug-lara",
+    "autoload": {
+        "psr-4": {
+            "Moohamad\\PlugLara\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mouhamadoufallBah",
+            "email": "mouhamadoufallbah@gmail.com"
+        }
+    ],
+    "require": {}
+}
